@@ -1,0 +1,93 @@
+[
+  {
+    "id": "AGA-MVGO0GHJ",
+    "customerName": "WhatsApp Customer",
+    "customerPhone": "+918136840790",
+    "customerAddress": "Shared directly on WhatsApp chat",
+    "items": [
+      {
+        "productId": "refined-palm-oil-pouch",
+        "name": "Refined Palm Oil",
+        "size": "500ml Litre, Pouch",
+        "price": 75,
+        "quantity": 1
+      },
+      {
+        "productId": "prod-1792495937803",
+        "name": "arogya ghee",
+        "size": "1 Kg, Pouch",
+        "price": 159,
+        "quantity": 3
+      },
+      {
+        "productId": "refined-palm-oil-bottle",
+        "name": "Refined Palm Oil",
+        "size": "1 Litre, Bottle",
+        "price": 140,
+        "quantity": 2
+      }
+    ],
+    "subtotal": 832,
+    "shippingFee": 0,
+    "total": 832,
+    "status": "Pending WhatsApp Confirmation",
+    "createdAt": "2026-10-20T12:34:13.495Z",
+    "source": "WhatsApp Cart Drawer"
+  },
+  {
+    "id": "AGA-MVGNZND9",
+    "customerName": "WhatsApp Customer",
+    "customerPhone": "+918136840790",
+    "customerAddress": "Shared directly on WhatsApp chat",
+    "items": [
+      {
+        "productId": "refined-palm-oil-pouch",
+        "name": "Refined Palm Oil",
+        "size": "500ml Litre, Pouch",
+        "price": 75,
+        "quantity": 1
+      },
+      {
+        "productId": "prod-1792495937803",
+        "name": "arogya ghee",
+        "size": "1 Kg, Pouch",
+        "price": 159,
+        "quantity": 1
+      },
+      {
+        "productId": "refined-palm-oil-bottle",
+        "name": "Refined Palm Oil",
+        "size": "1 Litre, Bottle",
+        "price": 140,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 374,
+    "shippingFee": 50,
+    "total": 424,
+    "status": "Pending WhatsApp Confirmation",
+    "createdAt": "2026-10-20T12:33:35.757Z",
+    "source": "WhatsApp Cart Drawer"
+  },
+  {
+    "id": "AGA-MVGJ97OI",
+    "customerName": "WhatsApp Customer",
+    "customerPhone": "+918136840790",
+    "customerAddress": "",
+    "items": [
+      {
+        "productId": "cold-pressed-sesame-oil",
+        "name": "Cold pressed Sesame Oil",
+        "size": "500ml",
+        "price": 160,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 160,
+    "shippingFee": 50,
+    "total": 210,
+    "status": "Pending WhatsApp Confirmation",
+    "createdAt": "2026-10-20T10:21:03.906Z",
+    "source": "WhatsApp Cart Drawer"
+  }
+]

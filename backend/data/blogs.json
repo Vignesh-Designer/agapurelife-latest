@@ -1,0 +1,38 @@
+[
+  {
+    "id": "blog-1",
+    "slug": "why-wood-pressed-oils-are-essential-for-heart-health",
+    "title": "Why Wood-Pressed Oils Are Essential for Heart Health vs Refined Vegetable Oils",
+    "category": "Holistic Nutrition",
+    "categoryColor": "emerald",
+    "readTime": "4 min read",
+    "date": "October 18, 2026",
+    "image": "/images/blog-cooking.jpg",
+    "excerpt": "Discover the cellular degradation that happens during industrial solvent refining, and why unrefined fats preserve heart-vital polyphenols and natural plant sterols.",
+    "content": "Most commercial cooking oils on supermarket shelves are extracted using high-heat expellers exceeding 240°C and chemical petroleum solvents like Hexane. In contrast, cold wood pressing retains natural Tocopherols (Vitamin E), Phytosterols, and natural mono-unsaturated fatty acids that actively balance LDL to HDL cholesterol ratios."
+  },
+  {
+    "id": "blog-2",
+    "slug": "ancient-art-of-vaagai-wood-churning",
+    "title": "The Ancient Art of Vaagai Wood Churning: How We Preserve 100% Nutrients",
+    "category": "Traditional Science",
+    "categoryColor": "gold",
+    "readTime": "5 min read",
+    "date": "October 14, 2026",
+    "image": "/images/blog-press.jpg",
+    "excerpt": "Why the black siris (Vaagai) wood pestle regulates friction and seed curding, preventing temperatures from destroying sensitive bioactives.",
+    "content": "Traditional Marachekku relies on Vaagai wood (Albizia lebbeck). Unlike heavy iron or steel screw expellers that generate scorching friction, Vaagai wood naturally absorbs friction heat and imparts medicinal cooling benefits, keeping the freshly squeezed oil golden and chemically unaltered."
+  },
+  {
+    "id": "blog-3",
+    "slug": "ayurvedic-benefits-of-cold-pressed-sesame-coconut-oils",
+    "title": "Top 7 Ayurvedic Benefits of Pure Cold-Pressed Sesame & Coconut Oils",
+    "category": "Ayurvedic Kitchen",
+    "categoryColor": "emerald",
+    "readTime": "6 min read",
+    "date": "October 09, 2026",
+    "image": "/images/blog-ayurveda.jpg",
+    "excerpt": "From morning Gandusha (oil pulling) to daily dinner seasoning, explore how classical Ayurveda treats pure oils as life-giving Ojas nourishers.",
+    "content": "In classical Charaka Samhita, sesame oil (Tila Taila) is considered the supreme base among vegetable oils due to its deep cellular penetrating power (Sukshma). Paired with virgin coconut oil rich in Lauric acid, it fuels digestion (Agni) without creating toxic Ama residues."
+  }
+]

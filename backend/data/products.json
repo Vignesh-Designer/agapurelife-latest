@@ -1,0 +1,86 @@
+[
+  {
+    "id": "prod-1792495937803",
+    "name": "arogya ghee",
+    "slug": "arogya-ghee",
+    "category": "Ghee",
+    "description": "Ghee for your choice",
+    "price": 159,
+    "volume": "1",
+    "weight": "Kg",
+    "package": "Pouch",
+    "image": "/uploads/agapure-1792495935731-694945715.png",
+    "inStock": true,
+    "options": [
+      {
+        "size": "1",
+        "price": 159
+      }
+    ]
+  },
+  {
+    "id": "refined-palm-oil-pouch",
+    "name": "Refined Palm Oil",
+    "slug": "refined-palm-oil-pouch",
+    "category": "Refined Palm Oil",
+    "description": "High stability at high temperatures, perfect for crisp deep ",
+    "price": 75,
+    "volume": "500ml",
+    "weight": "Litre",
+    "package": "Pouch",
+    "image": "/images/refined-oil.jpg",
+    "inStock": true
+  },
+  {
+    "id": "refined-palm-oil-bottle",
+    "name": "Refined Palm Oil",
+    "slug": "refined-palm-oil-bottle",
+    "category": "Refined Palm Oil",
+    "description": "High stability at high temperatures, perfect for ",
+    "price": 140,
+    "volume": "1",
+    "weight": "Litre",
+    "package": "Bottle",
+    "image": "/images/refined-oil.jpg",
+    "inStock": true
+  },
+  {
+    "id": "cold-pressed-groundnut-oil",
+    "name": "Cold pressed Groundnut Oil",
+    "slug": "cold-pressed-groundnut-oil",
+    "category": "Cold pressed Groundnut Oil",
+    "description": "Extracted from high-quality Saurashtra peanuts in ",
+    "price": 240,
+    "volume": "910",
+    "weight": "gm",
+    "package": "Bottle",
+    "image": "/images/groundnut-oil.jpg",
+    "inStock": true
+  },
+  {
+    "id": "cold-pressed-sunflower-oil",
+    "name": "Cold pressed Sunflower Oil",
+    "slug": "cold-pressed-sunflower-oil",
+    "category": "Cold pressed Sunflower Oil",
+    "description": "Low cholesterol and rich in natural Vitamin E for healthy ",
+    "price": 210,
+    "volume": "850",
+    "weight": "gm",
+    "package": "Pouch",
+    "image": "/images/sunflower-oil.jpg",
+    "inStock": true
+  },
+  {
+    "id": "cold-pressed-coconut-oil",
+    "name": "Virgin Wood-Pressed Coconut Oil",
+    "slug": "cold-pressed-coconut-oil",
+    "category": "Cold pressed Coconut Oil",
+    "description": "Cold extracted from fresh wet coconut milk within 48 hours,",
+    "price": 449,
+    "volume": "910",
+    "weight": "gm",
+    "package": "Bottle",
+    "image": "/images/coconut-oil.jpg",
+    "inStock": true
+  }
+]

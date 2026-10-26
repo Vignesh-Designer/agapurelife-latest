@@ -1,0 +1,21 @@
+{
+  "name": "agapurelife",
+  "version": "1.0.0",
+  "description": "Agápure Life - 100% Traditional Wood-Pressed & Cold-Pressed Edible Cooking Oils",
+  "scripts": {
+    "dev:backend": "node backend/server.js",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "start:backend": "node backend/server.js",
+    "start:frontend": "cd frontend && npm run start"
+  },
+  "keywords": [
+    "cold-pressed-oil",
+    "wood-pressed-oil",
+    "agapure",
+    "nextjs",
+    "nodejs"
+  ],
+  "author": "Agápure",
+  "license": "ISC"
+}

@@ -1,0 +1,26 @@
+{
+  "slides": [
+    {
+      "id": "slide-1792493374041",
+      "title": "Banner (Click Now)",
+      "subtitle": "EDIBLE OIL IN COIMBATORE",
+      "image": "/uploads/agapure-1792493369623-658771627.png",
+      "mobileImage": "/images/banner-1.png",
+      "buttonText": "Click Now",
+      "buttonLink": "#products"
+    },
+    {
+      "id": "slide-1792499116971",
+      "title": "Banner #6971",
+      "image": "/uploads/agapure-1792499115588-214003801.png",
+      "mobileImage": "/uploads/agapure-1792499115588-214003801.png",
+      "buttonText": "",
+      "buttonLink": "#products"
+    }
+  ],
+  "height": 591,
+  "autoPlay": true,
+  "interval": 5000,
+  "announcementActive": true,
+  "announcementText": "🌿 Fresh Batch Churned This Morning! Free Shipping on orders above ₹799 across India. Flat 10% OFF on 5L Family Packs"
+}
