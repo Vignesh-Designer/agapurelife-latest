@@ -31,3 +31,7 @@ Thumbs.db
 # TypeScript
 *.tsbuildinfo
 frontend/next-env.d.ts
+
+# deploy tools
+deploy-tools/
+

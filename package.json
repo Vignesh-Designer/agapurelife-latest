@@ -17,5 +17,15 @@
     "nodejs"
   ],
   "author": "Agápure",
-  "license": "ISC"
+  "license": "ISC",
+  "main": "run-dev.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vignesh-Designer/agapurelife-latest.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vignesh-Designer/agapurelife-latest/issues"
+  },
+  "homepage": "https://github.com/Vignesh-Designer/agapurelife-latest#readme"
 }
